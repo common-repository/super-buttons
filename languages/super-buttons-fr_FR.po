@@ -1,0 +1,786 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Buttons\n"
+"POT-Creation-Date: 2018-08-24 21:04+0530\n"
+"PO-Revision-Date: 2018-08-24 21:06+0530\n"
+"Last-Translator: Gautam Thapar <gautam@thewebsitedev.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: super-buttons.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: plugin version.
+#: admin/admin.php:29 dist/admin/admin.php:29
+#, php-format
+msgid "Free v%s"
+msgstr "Gratuit v %s"
+
+#: admin/admin.php:37 dist/admin/admin.php:37
+msgid "Documentation"
+msgstr "Documentation"
+
+#: admin/admin.php:40 dist/admin/admin.php:40
+msgid "Support"
+msgstr "Soutien"
+
+#: admin/admin.php:53 dist/admin/admin.php:53
+msgid "You are not authorized to view this page."
+msgstr "Vous n'êtes pas autorisé à voir cette page."
+
+#: admin/admin.php:71 admin/admin.php:148 dist/admin/admin.php:71
+#: dist/admin/admin.php:148
+msgid "Buttons"
+msgstr "Boutons"
+
+#: admin/admin.php:147 dist/admin/admin.php:147
+msgid "ERROR:"
+msgstr "Erreur:"
+
+#: admin/admin.php:149 dist/admin/admin.php:149
+msgid "Settings"
+msgstr "Paramètres"
+
+#: admin/admin.php:150 dist/admin/admin.php:150
+msgid "Import"
+msgstr "Importer"
+
+#: admin/admin.php:151 dist/admin/admin.php:151
+msgid "Get PRO"
+msgstr "Passez en Pro"
+
+#: admin/admin.php:152 dist/admin/admin.php:152
+msgid "Add New"
+msgstr "Ajouter"
+
+#: admin/admin.php:153 dist/admin/admin.php:153
+msgid "No more buttons"
+msgstr "Aucun boutons"
+
+#: admin/admin.php:154 dist/admin/admin.php:154
+msgid "Load more"
+msgstr "Charger plus"
+
+#: admin/admin.php:155 dist/admin/admin.php:155
+msgid "+ Add New"
+msgstr "+ Ajouter Nouveau"
+
+#: admin/admin.php:156 dist/admin/admin.php:156
+msgid "Copied"
+msgstr "Copié"
+
+#: admin/admin.php:157 dist/admin/admin.php:157
+msgid "Clicks"
+msgstr "Clics"
+
+#: admin/admin.php:158 dist/admin/admin.php:158
+msgid "Click"
+msgstr "Clic"
+
+#: admin/admin.php:159 dist/admin/admin.php:159
+msgid "Preview"
+msgstr "Aperçu"
+
+#: admin/admin.php:160 dist/admin/admin.php:160
+msgid "Desktop"
+msgstr "Ordinateur de bureau"
+
+#: admin/admin.php:161 dist/admin/admin.php:161
+msgid "Tablet"
+msgstr "Tablette"
+
+#: admin/admin.php:162 dist/admin/admin.php:162
+msgid "Mobile"
+msgstr "Mobile"
+
+#: admin/admin.php:163 dist/admin/admin.php:163
+msgid "Copy from Desktop"
+msgstr "Copier à partir du bureau"
+
+#: admin/admin.php:164 dist/admin/admin.php:164
+msgid "Options"
+msgstr "Options"
+
+#: admin/admin.php:165 dist/admin/admin.php:165
+msgid "Add More"
+msgstr "Ajouter plus"
+
+#: admin/admin.php:166 admin/ajax/button/options.php:374
+#: admin/ajax/button/options.php:984 dist/admin/admin.php:166
+#: dist/admin/ajax/button/options.php:374
+#: dist/admin/ajax/button/options.php:984
+msgid "Color"
+msgstr "Couleur"
+
+#: admin/admin.php:167 dist/admin/admin.php:167
+msgid "Sides"
+msgstr "Côtés"
+
+#: admin/admin.php:168 dist/admin/admin.php:168
+msgid "States"
+msgstr "Régions"
+
+#: admin/admin.php:169 dist/admin/admin.php:169
+msgid "Select or Upload Image"
+msgstr "Sélectionner ou Télécharger une image"
+
+#: admin/admin.php:170 dist/admin/admin.php:170
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: admin/admin.php:171 dist/admin/admin.php:171
+msgid "Title"
+msgstr "Titre"
+
+#: admin/admin.php:172 dist/admin/admin.php:172
+msgid "Short Code"
+msgstr "Short Code"
+
+#: admin/admin.php:173 dist/admin/admin.php:173
+msgid "Created"
+msgstr "Créé"
+
+#: admin/admin.php:174 dist/admin/admin.php:174
+msgid "Actions"
+msgstr "Actes"
+
+#: admin/admin.php:175 dist/admin/admin.php:175
+msgid "Please save changes."
+msgstr "S’il vous plaît enregistrer les modifications."
+
+#: admin/admin.php:176 dist/admin/admin.php:176
+msgid "Updated"
+msgstr "Mis à jour"
+
+#: admin/admin.php:177 dist/admin/admin.php:177
+msgid "Save"
+msgstr "Enregistrer"
+
+#: admin/admin.php:178 dist/admin/admin.php:178
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+#: admin/admin.php:179 dist/admin/admin.php:179
+msgid "Redo"
+msgstr "Refaire"
+
+#: admin/admin.php:180 dist/admin/admin.php:180
+msgid "Undo"
+msgstr "Annuler"
+
+#: admin/admin.php:181 dist/admin/admin.php:181
+msgid "Enter Button Title"
+msgstr "Entrez le titre du bouton ici"
+
+#: admin/admin.php:182 dist/admin/admin.php:182
+msgid "Automatic Updates"
+msgstr "Mises à jour automatiques"
+
+#: admin/admin.php:183 dist/admin/admin.php:183
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: admin/admin.php:184 dist/admin/admin.php:184
+msgid "Please enter license key"
+msgstr "Veuillez entrer la clé de licence"
+
+#: admin/admin.php:185 dist/admin/admin.php:185
+msgid "License Status"
+msgstr "Statut de la licence"
+
+#: admin/admin.php:186 dist/admin/admin.php:186
+msgid "Activate"
+msgstr "Activer"
+
+#: admin/admin.php:187 dist/admin/admin.php:187
+msgid "Valid"
+msgstr "Valide"
+
+#: admin/admin.php:188 dist/admin/admin.php:188
+msgid "Invalid"
+msgstr "Invalide"
+
+#: admin/admin.php:189 dist/admin/admin.php:189
+msgid "Select file"
+msgstr "Choisir le dossier"
+
+#: admin/admin.php:190 dist/admin/admin.php:190
+msgid "Create your first button"
+msgstr "Créer le premier bouton"
+
+#: admin/admin.php:191 admin/ajax/button/options.php:771
+#: dist/admin/admin.php:191 dist/admin/ajax/button/options.php:771
+msgid "Size"
+msgstr "Taille"
+
+#: admin/admin.php:192 dist/admin/admin.php:192
+msgid "Style"
+msgstr "Style"
+
+#: admin/admin.php:193
+msgid "Copy"
+msgstr "Copier"
+
+#: admin/admin.php:194
+msgid "Edit"
+msgstr "Modifier"
+
+#: admin/admin.php:195
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: admin/admin.php:196
+msgid "Download"
+msgstr "Télécharger"
+
+#: admin/admin.php:197
+msgid "Delete"
+msgstr "Supprimer"
+
+#: admin/admin.php:217 dist/admin/admin.php:212
+msgid "Plugin: Super Buttons"
+msgstr "Extension: Super Boutons"
+
+#: admin/admin.php:219 dist/admin/admin.php:214
+msgid ""
+"IP address of every user who clicks a button (created with Super Buttons) is "
+"stored in the database for analytics. So, please update your privacy policy "
+"to reflect the same.\n"
+"\t\t"
+msgstr ""
+"L’adresse IP de chaque utilisateur qui clique sur un bouton (créé avec Super "
+"Buttons) est stockée dans la base de données pour l’analyse d’utilisation "
+"des boutons. Donc, s’il vous plaît mettez à jour votre politique de "
+"confidentialité pour refléter la même chose.\n"
+"\t\t"
+
+#: admin/ajax/button/create.php:35 admin/ajax/button/create.php:78
+#: dist/admin/ajax/button/create.php:35
+#, php-format
+msgid "Button #%s"
+msgstr "Bouton #%s"
+
+#: admin/ajax/button/options.php:50 dist/admin/ajax/button/options.php:50
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: admin/ajax/button/options.php:55 dist/admin/ajax/button/options.php:55
+msgid "Width"
+msgstr "Largeur"
+
+#: admin/ajax/button/options.php:58 dist/admin/ajax/button/options.php:58
+msgid "100"
+msgstr "100"
+
+#: admin/ajax/button/options.php:86 dist/admin/ajax/button/options.php:86
+msgid "Height"
+msgstr "Hauteur"
+
+#: admin/ajax/button/options.php:89 dist/admin/ajax/button/options.php:89
+msgid "40"
+msgstr "40"
+
+#: admin/ajax/button/options.php:118 dist/admin/ajax/button/options.php:118
+msgid "Margin"
+msgstr "Marge"
+
+#: admin/ajax/button/options.php:124 admin/ajax/button/options.php:249
+#: admin/ajax/button/options.php:1129 admin/ajax/button/options.php:1158
+#: admin/ajax/button/options.php:1187 admin/ajax/button/options.php:1244
+#: dist/admin/ajax/button/options.php:124
+#: dist/admin/ajax/button/options.php:249
+#: dist/admin/ajax/button/options.php:1129
+#: dist/admin/ajax/button/options.php:1158
+#: dist/admin/ajax/button/options.php:1187
+#: dist/admin/ajax/button/options.php:1244
+msgid "Top"
+msgstr "Haut"
+
+#: admin/ajax/button/options.php:154 admin/ajax/button/options.php:279
+#: admin/ajax/button/options.php:1133 admin/ajax/button/options.php:1162
+#: admin/ajax/button/options.php:1191 admin/ajax/button/options.php:1248
+#: dist/admin/ajax/button/options.php:154
+#: dist/admin/ajax/button/options.php:279
+#: dist/admin/ajax/button/options.php:1133
+#: dist/admin/ajax/button/options.php:1162
+#: dist/admin/ajax/button/options.php:1191
+#: dist/admin/ajax/button/options.php:1248
+msgid "Bottom"
+msgstr "Bas"
+
+#: admin/ajax/button/options.php:184 admin/ajax/button/options.php:309
+#: admin/ajax/button/options.php:897 admin/ajax/button/options.php:1137
+#: admin/ajax/button/options.php:1166 admin/ajax/button/options.php:1195
+#: admin/ajax/button/options.php:1252 dist/admin/ajax/button/options.php:184
+#: dist/admin/ajax/button/options.php:309
+#: dist/admin/ajax/button/options.php:897
+#: dist/admin/ajax/button/options.php:1137
+#: dist/admin/ajax/button/options.php:1166
+#: dist/admin/ajax/button/options.php:1195
+#: dist/admin/ajax/button/options.php:1252
+msgid "Left"
+msgstr "Gauche"
+
+#: admin/ajax/button/options.php:214 admin/ajax/button/options.php:339
+#: admin/ajax/button/options.php:901 admin/ajax/button/options.php:1141
+#: admin/ajax/button/options.php:1170 admin/ajax/button/options.php:1199
+#: admin/ajax/button/options.php:1256 dist/admin/ajax/button/options.php:214
+#: dist/admin/ajax/button/options.php:339
+#: dist/admin/ajax/button/options.php:901
+#: dist/admin/ajax/button/options.php:1141
+#: dist/admin/ajax/button/options.php:1170
+#: dist/admin/ajax/button/options.php:1199
+#: dist/admin/ajax/button/options.php:1256
+msgid "Right"
+msgstr "Droite"
+
+#: admin/ajax/button/options.php:243 dist/admin/ajax/button/options.php:243
+msgid "Padding"
+msgstr "Marges intérieures"
+
+#: admin/ajax/button/options.php:370 dist/admin/ajax/button/options.php:370
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: admin/ajax/button/options.php:380 admin/ajax/button/options.php:439
+#: admin/ajax/button/options.php:990 admin/ajax/button/options.php:1300
+#: admin/ajax/button/options.php:1334 admin/ajax/button/options.php:1368
+#: admin/ajax/button/options.php:1405 dist/admin/ajax/button/options.php:380
+#: dist/admin/ajax/button/options.php:439
+#: dist/admin/ajax/button/options.php:990
+#: dist/admin/ajax/button/options.php:1300
+#: dist/admin/ajax/button/options.php:1334
+#: dist/admin/ajax/button/options.php:1368
+#: dist/admin/ajax/button/options.php:1405
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/ajax/button/options.php:383 dist/admin/ajax/button/options.php:383
+msgid "Select background color."
+msgstr "Sélectionnez la couleur d'arrière-plan pour chaque élément."
+
+#: admin/ajax/button/options.php:407 admin/ajax/button/options.php:466
+#: admin/ajax/button/options.php:1018 admin/ajax/button/options.php:1304
+#: admin/ajax/button/options.php:1338 admin/ajax/button/options.php:1372
+#: admin/ajax/button/options.php:1409 dist/admin/ajax/button/options.php:407
+#: dist/admin/ajax/button/options.php:466
+#: dist/admin/ajax/button/options.php:1018
+#: dist/admin/ajax/button/options.php:1304
+#: dist/admin/ajax/button/options.php:1338
+#: dist/admin/ajax/button/options.php:1372
+#: dist/admin/ajax/button/options.php:1409
+msgid "Hover"
+msgstr "Survol"
+
+#: admin/ajax/button/options.php:410 dist/admin/ajax/button/options.php:410
+msgid "Select background color for when button is hovered."
+msgstr "Sélectionnez la couleur d’arrière-plan pour le bouton survolé."
+
+#: admin/ajax/button/options.php:433 dist/admin/ajax/button/options.php:433
+msgid "Image"
+msgstr "Image"
+
+#: admin/ajax/button/options.php:442 dist/admin/ajax/button/options.php:442
+msgid "Select background image."
+msgstr "Sélectionner l’image d'arrière-plan."
+
+#: admin/ajax/button/options.php:469 dist/admin/ajax/button/options.php:469
+msgid "Select background image for hover view."
+msgstr "Sélectionnez l’image d’arrière-plan pour la vue."
+
+#: admin/ajax/button/options.php:493 admin/ajax/button/options.php:511
+#: dist/admin/ajax/button/options.php:493
+#: dist/admin/ajax/button/options.php:511
+msgid "Repeat"
+msgstr "Répéter"
+
+#: admin/ajax/button/options.php:496 dist/admin/ajax/button/options.php:496
+msgid "Select whether the background image should repeat."
+msgstr "Sélectionnez si l’image d’arrière-plan doit être répétée."
+
+#: admin/ajax/button/options.php:499 admin/ajax/button/options.php:527
+#: admin/ajax/button/options.php:534 admin/ajax/button/options.php:541
+#: dist/admin/ajax/button/options.php:499
+#: dist/admin/ajax/button/options.php:527
+#: dist/admin/ajax/button/options.php:534
+#: dist/admin/ajax/button/options.php:541
+msgid "No Repeat"
+msgstr "Ne pas répéter"
+
+#: admin/ajax/button/options.php:503 dist/admin/ajax/button/options.php:503
+msgid "Repeat Horizontally"
+msgstr "Répéter horizontalement"
+
+#: admin/ajax/button/options.php:507 dist/admin/ajax/button/options.php:507
+msgid "Repeat Vertically"
+msgstr "Répéter verticalement"
+
+#: admin/ajax/button/options.php:515 dist/admin/ajax/button/options.php:515
+msgid "Space"
+msgstr "Espace"
+
+#: admin/ajax/button/options.php:519 dist/admin/ajax/button/options.php:519
+msgid "Round"
+msgstr "Rond"
+
+#: admin/ajax/button/options.php:555 admin/ajax/button/options.php:938
+#: dist/admin/ajax/button/options.php:555
+#: dist/admin/ajax/button/options.php:938
+msgid "Position"
+msgstr "Position"
+
+#: admin/ajax/button/options.php:558 dist/admin/ajax/button/options.php:558
+msgid "Select background image position."
+msgstr "Sélectionnez la position de l'image d'arrière-plan."
+
+#: admin/ajax/button/options.php:561 admin/ajax/button/options.php:605
+#: admin/ajax/button/options.php:612 admin/ajax/button/options.php:619
+#: dist/admin/ajax/button/options.php:561
+#: dist/admin/ajax/button/options.php:605
+#: dist/admin/ajax/button/options.php:612
+#: dist/admin/ajax/button/options.php:619
+msgid "Initial"
+msgstr "Initial"
+
+#: admin/ajax/button/options.php:565 dist/admin/ajax/button/options.php:565
+msgid "Left Top"
+msgstr "En haut à gauche"
+
+#: admin/ajax/button/options.php:569 dist/admin/ajax/button/options.php:569
+msgid "Left Center"
+msgstr "Centre gauche"
+
+#: admin/ajax/button/options.php:573 dist/admin/ajax/button/options.php:573
+msgid "Left Bottom"
+msgstr "En bas à gauche"
+
+#: admin/ajax/button/options.php:577 dist/admin/ajax/button/options.php:577
+msgid "Right Top"
+msgstr "En haut à droite"
+
+#: admin/ajax/button/options.php:581 dist/admin/ajax/button/options.php:581
+msgid "Right Center"
+msgstr "Au centre à droite"
+
+#: admin/ajax/button/options.php:585 dist/admin/ajax/button/options.php:585
+msgid "Right Bottom"
+msgstr "En bas à droite"
+
+#: admin/ajax/button/options.php:589 dist/admin/ajax/button/options.php:589
+msgid "Center Top"
+msgstr "Centré en haut"
+
+#: admin/ajax/button/options.php:593 dist/admin/ajax/button/options.php:593
+msgid "Center Center"
+msgstr "Centre centre"
+
+#: admin/ajax/button/options.php:597 dist/admin/ajax/button/options.php:597
+msgid "Center Bottom"
+msgstr "Centré en bas"
+
+#: admin/ajax/button/options.php:634 admin/ajax/button/options.php:639
+#: dist/admin/ajax/button/options.php:634
+#: dist/admin/ajax/button/options.php:639
+msgid "Text"
+msgstr "Texte"
+
+#: admin/ajax/button/options.php:642 dist/admin/ajax/button/options.php:642
+msgid "Change button text"
+msgstr "Changer le texte du Bouton"
+
+#: admin/ajax/button/options.php:646 admin/ajax/button/options.php:650
+#: admin/ajax/button/options.php:654 dist/admin/ajax/button/options.php:646
+#: dist/admin/ajax/button/options.php:650
+#: dist/admin/ajax/button/options.php:654
+msgid "Default"
+msgstr "Par défaut"
+
+#: admin/ajax/button/options.php:667 dist/admin/ajax/button/options.php:667
+msgid "Font Family"
+msgstr "Famille de police"
+
+#: admin/ajax/button/options.php:670 dist/admin/ajax/button/options.php:670
+msgid "Inherit"
+msgstr "Hériter"
+
+#: admin/ajax/button/options.php:696 dist/admin/ajax/button/options.php:696
+msgid "Font Weight"
+msgstr "Épaisseur de la police"
+
+#: admin/ajax/button/options.php:699 dist/admin/ajax/button/options.php:699
+msgid "Select font weight"
+msgstr "Sélectionnez la largeur de la police"
+
+#: admin/ajax/button/options.php:801 dist/admin/ajax/button/options.php:801
+msgid "Vertical Space"
+msgstr "Espace vertical"
+
+#: admin/ajax/button/options.php:832 dist/admin/ajax/button/options.php:832
+msgid "Transform"
+msgstr "Transformer"
+
+#: admin/ajax/button/options.php:835 dist/admin/ajax/button/options.php:835
+msgid "Transform button text"
+msgstr "Transformer le texte du bouton"
+
+#: admin/ajax/button/options.php:838 admin/ajax/button/options.php:858
+#: admin/ajax/button/options.php:865 admin/ajax/button/options.php:872
+#: admin/ajax/button/options.php:1214 dist/admin/ajax/button/options.php:838
+#: dist/admin/ajax/button/options.php:858
+#: dist/admin/ajax/button/options.php:865
+#: dist/admin/ajax/button/options.php:872
+#: dist/admin/ajax/button/options.php:1214
+msgid "None"
+msgstr "Aucun"
+
+#: admin/ajax/button/options.php:842 dist/admin/ajax/button/options.php:842
+msgid "Capitalize"
+msgstr "Mettre une majuscule"
+
+#: admin/ajax/button/options.php:846 dist/admin/ajax/button/options.php:846
+msgid "Uppercase"
+msgstr "Majuscule"
+
+#: admin/ajax/button/options.php:850 dist/admin/ajax/button/options.php:850
+msgid "Lowercase"
+msgstr "Minuscule"
+
+#: admin/ajax/button/options.php:887 dist/admin/ajax/button/options.php:887
+msgid "Alignment"
+msgstr "Alignement"
+
+#: admin/ajax/button/options.php:890 dist/admin/ajax/button/options.php:890
+msgid "Align button text"
+msgstr "Aligner le texte du bouton"
+
+#: admin/ajax/button/options.php:893 admin/ajax/button/options.php:909
+#: admin/ajax/button/options.php:916 admin/ajax/button/options.php:923
+#: dist/admin/ajax/button/options.php:893
+#: dist/admin/ajax/button/options.php:909
+#: dist/admin/ajax/button/options.php:916
+#: dist/admin/ajax/button/options.php:923
+msgid "Center"
+msgstr "Centre"
+
+#: admin/ajax/button/options.php:941 dist/admin/ajax/button/options.php:941
+msgid "Select text position"
+msgstr "Sélectionnez la position du texte"
+
+#: admin/ajax/button/options.php:944 dist/admin/ajax/button/options.php:944
+msgid "Same line"
+msgstr "Même ligne"
+
+#: admin/ajax/button/options.php:948 dist/admin/ajax/button/options.php:948
+msgid "New line"
+msgstr "Nouvelle ligne"
+
+#: admin/ajax/button/options.php:993 admin/ajax/button/options.php:1021
+#: dist/admin/ajax/button/options.php:993
+#: dist/admin/ajax/button/options.php:1021
+msgid "Select text color."
+msgstr "Choisir la couleur du texte."
+
+#: admin/ajax/button/options.php:1049 dist/admin/ajax/button/options.php:1049
+msgid "Link"
+msgstr "Lien"
+
+#: admin/ajax/button/options.php:1054 dist/admin/ajax/button/options.php:1054
+msgid "URL"
+msgstr "URL"
+
+#: admin/ajax/button/options.php:1057 admin/ajax/button/options.php:1079
+#: dist/admin/ajax/button/options.php:1057
+#: dist/admin/ajax/button/options.php:1079
+msgid "Insert URL."
+msgstr "Insérer une URL."
+
+#: admin/ajax/button/options.php:1076 dist/admin/ajax/button/options.php:1076
+msgid "Open link in"
+msgstr "Ouvrir le lien dans"
+
+#: admin/ajax/button/options.php:1092 dist/admin/ajax/button/options.php:1092
+msgid "Same Window"
+msgstr "Même ligne"
+
+#: admin/ajax/button/options.php:1096 dist/admin/ajax/button/options.php:1096
+msgid "New Window"
+msgstr "Nouvelle ligne"
+
+#: admin/ajax/button/options.php:1109 admin/ajax/button/options.php:1114
+#: dist/admin/ajax/button/options.php:1109
+#: dist/admin/ajax/button/options.php:1114
+msgid "Border"
+msgstr "Bordure"
+
+#: admin/ajax/button/options.php:1123 admin/ajax/button/options.php:1152
+#: admin/ajax/button/options.php:1181 admin/ajax/button/options.php:1226
+#: dist/admin/ajax/button/options.php:1123
+#: dist/admin/ajax/button/options.php:1152
+#: dist/admin/ajax/button/options.php:1181
+#: dist/admin/ajax/button/options.php:1226
+msgid "Solid"
+msgstr "Solide"
+
+#: admin/ajax/button/options.php:1218 dist/admin/ajax/button/options.php:1218
+msgid "Dotted"
+msgstr "Pointillés"
+
+#: admin/ajax/button/options.php:1222 dist/admin/ajax/button/options.php:1222
+msgid "Dashed"
+msgstr "Tirets"
+
+#: admin/ajax/button/options.php:1230 dist/admin/ajax/button/options.php:1230
+msgid "Double"
+msgstr "Double"
+
+#: admin/ajax/button/options.php:1234 dist/admin/ajax/button/options.php:1234
+msgid "Groove"
+msgstr "Groove (Biseau)"
+
+#: admin/ajax/button/options.php:1238 dist/admin/ajax/button/options.php:1238
+msgid "Ridge"
+msgstr "Ridge (Biseau)"
+
+#: admin/ajax/button/options.php:1267 dist/admin/ajax/button/options.php:1267
+msgid "Corners"
+msgstr "Coins"
+
+#: admin/ajax/button/options.php:1272 dist/admin/ajax/button/options.php:1272
+msgid "Rounded Corners"
+msgstr "Coins arrondis"
+
+#: admin/ajax/button/options.php:1282 admin/ajax/button/options.php:1316
+#: admin/ajax/button/options.php:1350 admin/ajax/button/options.php:1387
+#: dist/admin/ajax/button/options.php:1282
+#: dist/admin/ajax/button/options.php:1316
+#: dist/admin/ajax/button/options.php:1350
+#: dist/admin/ajax/button/options.php:1387
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+#: admin/ajax/button/options.php:1286 admin/ajax/button/options.php:1320
+#: admin/ajax/button/options.php:1354 admin/ajax/button/options.php:1391
+#: dist/admin/ajax/button/options.php:1286
+#: dist/admin/ajax/button/options.php:1320
+#: dist/admin/ajax/button/options.php:1354
+#: dist/admin/ajax/button/options.php:1391
+msgid "Top Right"
+msgstr "En haut à droite"
+
+#: admin/ajax/button/options.php:1290 admin/ajax/button/options.php:1324
+#: admin/ajax/button/options.php:1358 admin/ajax/button/options.php:1395
+#: dist/admin/ajax/button/options.php:1290
+#: dist/admin/ajax/button/options.php:1324
+#: dist/admin/ajax/button/options.php:1358
+#: dist/admin/ajax/button/options.php:1395
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+#: admin/ajax/button/options.php:1294 admin/ajax/button/options.php:1328
+#: admin/ajax/button/options.php:1362 admin/ajax/button/options.php:1399
+#: dist/admin/ajax/button/options.php:1294
+#: dist/admin/ajax/button/options.php:1328
+#: dist/admin/ajax/button/options.php:1362
+#: dist/admin/ajax/button/options.php:1399
+msgid "Bottom Right"
+msgstr "En bas à droite"
+
+#: admin/ajax/settings.php:124 dist/admin/ajax/settings.php:124
+msgid "Who can edit buttons?"
+msgstr "Qui peut éditer les boutons?"
+
+#: admin/ajax/settings.php:134 dist/admin/ajax/settings.php:134
+msgid "Responsive BreakPoints"
+msgstr "Points d’arrêt responsfs"
+
+#: admin/ajax/settings.php:139 dist/admin/ajax/settings.php:139
+msgid "Tablet (in pixels)"
+msgstr "Tablette (en pixels)"
+
+#: admin/ajax/settings.php:149 dist/admin/ajax/settings.php:149
+msgid "Mobile (in pixels)"
+msgstr "Mobile (en pixels)"
+
+#: admin/import.php:20 dist/admin/import.php:20
+msgid "No file attached."
+msgstr "Aucun fichier attaché."
+
+#: admin/import.php:24 dist/admin/import.php:24
+msgid "Not a valid JSON file."
+msgstr "Pas un fichier JSON valide."
+
+#: admin/import.php:48 dist/admin/import.php:48
+msgid " Button imported successfully."
+msgstr " Bouton importé avec succès."
+
+#: admin/import.php:50 dist/admin/import.php:50
+msgid " Buttons imported successfully."
+msgstr " Les boutons ont été importés avec succès."
+
+#: admin/import.php:54 dist/admin/import.php:54
+msgid "Filesystem access not allowed. Import failed."
+msgstr "Accès de système de fichiers non autorisé. Échec de l’importation."
+
+#: admin/import.php:74 dist/admin/import.php:74
+msgid "Button title not set."
+msgstr "Titre du bouton non définie."
+
+#: admin/import.php:104 dist/admin/import.php:104
+msgid "Unable to add button to database."
+msgstr "Impossible d’ajouter le bouton à la base de données."
+
+#: admin/import.php:123 dist/admin/import.php:123
+msgid "Button ID or values not available."
+msgstr "ID bouton ou valeurs non disponibles."
+
+#: dist/shortcode.php:53 shortcode.php:53
+msgid "You have not added button text yet."
+msgstr "Vous n’avez pas encore ajouté de texte au bouton."
+
+#: dist/shortcode.php:56 shortcode.php:56
+msgid "You have not yet saved button values or the button does not exist."
+msgstr ""
+"Vous n’avez pas encore enregistré les valeurs du bouton ou le bouton "
+"n’existe pas."
+
+#: dist/shortcode.php:82 shortcode.php:82
+msgid "Button does not exist. Please remove button short code."
+msgstr ""
+"Le bouton n’existe pas. S’il vous plaît supprimer le code court du bouton."
+
+#. Plugin Name of the plugin/theme
+msgid "Super Buttons"
+msgstr "Super Buttons"
+
+#. Plugin URI of the plugin/theme
+msgid "https://thewebsitedev.com/products/super-buttons/"
+msgstr "https://thewebsitedev.com/products/super-buttons/"
+
+#. Description of the plugin/theme
+msgid "The best buttons plugin for WordPress."
+msgstr "Le meilleur plugin de boutons pour WordPress."
+
+#. Author of the plugin/theme
+msgid "The Website Dev"
+msgstr "TheWebsiteDev"
+
+#. Author URI of the plugin/theme
+msgid "https://thewebsitedev.com/"
+msgstr "https://thewebsitedev.com/"
+
+#~ msgid "Border Radius"
+#~ msgstr "Rayon de la bordure"
+
+#~ msgid "Gautam Thapar (thewebsitedev.com)"
+#~ msgstr "Gautam Thapar (thewebsitedev.com)"

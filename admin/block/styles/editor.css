@@ -1,0 +1,47 @@
+/**
+ * Editor styles for Super Button block
+ */
+
+.super-button{
+    white-space: normal!important;
+    display: inline-block;
+    font-weight: 500;
+    overflow: hidden;
+    padding: 0;
+    cursor: pointer;
+    border: 0 solid transparent;
+    word-wrap: break-word;
+    user-select: none;
+    background: 0 0;
+    color: #222;
+    margin-bottom: 0;
+    line-height: 0;
+    text-decoration: none;
+    text-shadow: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: .25s;
+    -moz-transition: .25s;
+    -o-transition: .25s;
+    transition: .25s;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    min-height: 0!important;
+    -moz-osx-font-smoothing: grayscale !important;
+}
+
+.super-button .blocks-rich-text {
+    background: inherit;
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+    border: inherit;
+    border-radius: inherit;
+    font: inherit;
+    transition: inherit;
+}
